@@ -1,0 +1,18 @@
+Parameters monitor graph viever
+
+Menu  
+   - Show plot: allows for displaying choosen plots.
+   - Cursor crosshair: enable/disable cursor crosshair (disabled on default).
+   - Show Toolbar: show and hides buttons toolbars.
+
+Main setup - main plot choice (water flow on default).
+Plot setup - choice of additional parameters displayed.
+Info - this one.
+
+Buttons are analogous to menu choices. See buttons' tooltips for clarification.
+
+Version 2.0
+Author: Bart³omiej Turowski
+International Research Centre MagTop, Institute of Physics, Polish Academy of Sciences
+Aleja Lotnikow 32/46, PL-02668 Warsaw, Poland
+Date: 13.07.2018
